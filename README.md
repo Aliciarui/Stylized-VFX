@@ -15,12 +15,15 @@ This repository contains two stylized VFX effects created in Unity URP particle 
    - `VFX1.unity`
 
 ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/scene.png)
+
 4. Upon opening a scene, you will see the corresponding VFX setup already placed in the scene.
    ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/open.png)
+
 5. Each scene contains a **Timeline** already configured.
    ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/timeline.png)
+
 6. VFX assets (particles, models, animations) are located in the `VFX/`:
    - `EffectTest0`
    - `EffectTest1`
-   
+
 ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/asset.png)
