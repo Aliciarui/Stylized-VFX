@@ -14,7 +14,7 @@ This repository contains two stylized VFX effects created in Unity URP particle 
    - `VFX0.unity`
    - `VFX1.unity`
 
-![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/scene.png)
+   ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/scene.png)
 
 4. Upon opening a scene, you will see the corresponding VFX setup already placed in the scene.
    ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/open.png)
@@ -26,4 +26,4 @@ This repository contains two stylized VFX effects created in Unity URP particle 
    - `EffectTest0`
    - `EffectTest1`
 
-![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/asset.png)
+   ![image](https://github.com/Aliciarui/Stylized-VFX/blob/main/img/asset.png)
