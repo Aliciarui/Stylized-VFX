@@ -9,7 +9,7 @@ This repository contains two stylized VFX effects created in Unity URP particle 
 ## 🚀 How to Run
 
 1. Clone or download this project.
-2. Open it in **Unity 6000.0.34f1** or later.
+2. Recommended Unity Version: **Unity 6000.0.34f1**.
 3. Open either of the following scenes located in `Assets/Scenes/`:
    - `VFX0.unity`
    - `VFX1.unity`
